@@ -187,6 +187,8 @@
 
 .boxes__box__img{
     padding-top: 72px;
+    width: 255px;
+    height: 193px;
 }
 
 .boxes__box__title{
